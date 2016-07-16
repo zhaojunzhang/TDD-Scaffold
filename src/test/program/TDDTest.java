@@ -3,6 +3,7 @@ package test.program;
 import static org.junit.Assert.assertEquals;
 import main.java.program.AnswerGenerator;
 import main.java.program.Complie;
+import main.java.program.RandomNumber;
 
 import org.junit.Test;
 

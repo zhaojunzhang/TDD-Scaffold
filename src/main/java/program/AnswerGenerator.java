@@ -1,6 +1,5 @@
 package main.java.program;
 
-import test.program.RandomNumber;
 
 public class AnswerGenerator  {
 	private RandomNumber number;
